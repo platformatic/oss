@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplatformatic_oss_website=self.webpackChunkplatformatic_oss_website||[]).push([[67005],{43511:t=>{t.exports=JSON.parse('{"title":"Getting Started","slug":"/category/getting-started","permalink":"/docs/0.9.1/category/getting-started","navigation":{"next":{"title":"Quick Start Guide","permalink":"/docs/0.9.1/getting-started/quick-start-guide"}}}')}}]);
